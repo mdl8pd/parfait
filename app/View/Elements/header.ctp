@@ -25,7 +25,7 @@
 			  <div class="container">
 			   <a class="brand" href="<?php echo $this->webroot; ?>"><?php echo $this->Html->image('parfait-titlehead.png', array('width' => 135, 'height'=>100, 'alt' => 'Parfait')); ?></a>
 			   <ul class="nav">
-			    <li><a href="#">About</a></li>
+			    <li><a href="<?php echo $this->webroot; ?>pages/about">About</a></li>
 			    <li><a href="#">Projects</a></li>
 			    <li><a href="#">Resources</a></li>
 			    <li><a href="#">Contact</a></li>
