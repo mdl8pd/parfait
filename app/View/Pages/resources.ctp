@@ -1,6 +1,7 @@
 <?php 
 	echo $this->element('header');
 ?>
+<div id="resources">
 
 <!--First Row-->
 <div class="row-fluid">	
@@ -25,9 +26,6 @@
 
 </div>
 
-<!--Any better way of spacing the two rows?-->
-<br>
-
 <!--Second Row-->
 <div class="row-fluid">	
 
@@ -51,6 +49,7 @@
 
 </div>
 
+</div>
 
 <?php
 	echo $this->element('footer');
