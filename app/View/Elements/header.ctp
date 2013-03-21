@@ -27,11 +27,10 @@
 			   <ul class="nav">
 			    <li><a href="<?php echo $this->webroot; ?>pages/about">About</a></li>
 			    <li><a href="#">Projects</a></li>
-			    <li><a href="#">Resources</a></li>
+			    <li><a href="<?php echo $this->webroot; ?>pages/resources">Resources</a></li>
 			    <li><a href="#">Contact</a></li>
 			   </ul>
 			  </div>		
 			 </div>
 			</div>
 		</div>
-
