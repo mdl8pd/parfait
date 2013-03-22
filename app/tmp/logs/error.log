@@ -1265,3 +1265,1242 @@
 2013-03-21 02:45:21 Error: [MissingControllerException] Controller class JsController could not be found.
 #0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
+2013-03-21 10:56:26 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-21 10:59:35 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-21 10:59:41 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-21 10:59:44 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-21 11:01:07 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-21 11:01:09 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-21 11:01:15 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-21 11:01:22 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-21 11:04:30 Error: Fatal Error (1): Call to a member function user() on a non-object in [/var/www/parfait/app/Controller/AppController.php, line 46]
+2013-03-21 11:04:30 Error: [FatalErrorException] Call to a member function user() on a non-object
+#0 /var/www/parfait/lib/Cake/Error/ErrorHandler.php(162): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/var/www/parfai...', 46)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/var/www/parfai...', 46, Array)
+#2 /var/www/parfait/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/var/www/parfai...', 46, Array)
+#3 /var/www/parfait/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-03-21 11:04:52 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-21 11:04:55 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-21 11:05:02 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-21 11:06:53 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-21 11:07:03 Error: [MissingViewException] View file "/var/www/parfait/app/View/Users/logout.ctp" is missing.
+#0 /var/www/parfait/lib/Cake/View/View.php(472): View->_getViewFileName(NULL)
+#1 /var/www/parfait/lib/Cake/Controller/Controller.php(957): View->render(NULL, NULL)
+#2 /var/www/parfait/lib/Cake/Routing/Dispatcher.php(193): Controller->render()
+#3 /var/www/parfait/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#4 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-03-21 11:09:34 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-21 11:09:40 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-21 11:10:05 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-21 11:10:18 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-21 11:10:20 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-21 11:10:21 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-21 11:11:53 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-21 11:12:16 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-21 11:12:27 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-21 16:43:24 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-21 16:43:28 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-21 16:44:22 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-21 16:44:26 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-21 16:44:32 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-21 16:46:58 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-21 16:47:07 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-21 16:47:10 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-21 16:47:27 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-21 16:47:54 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-21 16:47:57 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-21 16:48:10 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-21 16:48:13 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-21 16:48:15 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-21 16:48:18 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-21 16:50:43 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-21 16:54:57 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-21 17:01:14 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-21 17:01:33 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-21 17:01:34 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-21 17:01:37 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-21 17:01:40 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-21 17:02:45 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-21 17:02:52 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-21 17:08:49 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-21 17:08:57 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-21 17:09:03 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-21 17:24:20 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-21 17:24:36 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-21 17:32:42 Error: Fatal Error (1): Call to a member function logout() on a non-object in [/var/www/parfait/app/View/Users/login.ctp, line 12]
+2013-03-21 17:32:42 Error: [FatalErrorException] Call to a member function logout() on a non-object
+#0 /var/www/parfait/lib/Cake/Error/ErrorHandler.php(162): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/var/www/parfai...', 12)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/var/www/parfai...', 12, Array)
+#2 /var/www/parfait/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/var/www/parfai...', 12, Array)
+#3 /var/www/parfait/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-03-21 17:33:40 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-21 17:38:50 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-21 17:39:19 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-21 17:39:19 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-21 17:41:04 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-21 17:43:16 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-21 17:43:17 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-21 17:49:20 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-21 17:49:24 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-21 21:08:22 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-21 21:12:08 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-21 21:13:38 Error: [MissingControllerException] Controller class ChannelController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-21 21:13:52 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-21 21:13:55 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-21 21:16:51 Error: [MissingControllerException] Controller class Channel.htmlController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-21 21:18:39 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-21 21:18:43 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-21 21:28:45 Error: [MissingControllerException] Controller class LoginController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-21 21:28:50 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-21 22:36:01 Error: Fatal Error (4): syntax error, unexpected ')', expecting T_FUNCTION in [/var/www/parfait/app/Controller/AppController.php, line 37]
+2013-03-21 22:36:01 Error: [FatalErrorException] syntax error, unexpected ')', expecting T_FUNCTION
+#0 /var/www/parfait/lib/Cake/Error/ErrorHandler.php(162): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/parfai...', 37)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/parfai...', 37, Array)
+#2 /var/www/parfait/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/parfai...', 37, Array)
+#3 /var/www/parfait/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-03-21 22:36:03 Error: Fatal Error (4): syntax error, unexpected ')', expecting T_FUNCTION in [/var/www/parfait/app/Controller/AppController.php, line 37]
+2013-03-21 22:36:03 Error: [FatalErrorException] syntax error, unexpected ')', expecting T_FUNCTION
+#0 /var/www/parfait/lib/Cake/Error/ErrorHandler.php(162): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/parfai...', 37)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/parfai...', 37, Array)
+#2 /var/www/parfait/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/parfai...', 37, Array)
+#3 /var/www/parfait/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-03-21 22:37:20 Error: Fatal Error (4): syntax error, unexpected ')', expecting T_FUNCTION in [/var/www/parfait/app/Controller/AppController.php, line 37]
+2013-03-21 22:37:20 Error: [FatalErrorException] syntax error, unexpected ')', expecting T_FUNCTION
+#0 /var/www/parfait/lib/Cake/Error/ErrorHandler.php(162): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/parfai...', 37)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/parfai...', 37, Array)
+#2 /var/www/parfait/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/parfai...', 37, Array)
+#3 /var/www/parfait/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-03-21 22:37:24 Error: Fatal Error (4): syntax error, unexpected ')', expecting T_FUNCTION in [/var/www/parfait/app/Controller/AppController.php, line 37]
+2013-03-21 22:37:24 Error: [FatalErrorException] syntax error, unexpected ')', expecting T_FUNCTION
+#0 /var/www/parfait/lib/Cake/Error/ErrorHandler.php(162): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/parfai...', 37)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/parfai...', 37, Array)
+#2 /var/www/parfait/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/parfai...', 37, Array)
+#3 /var/www/parfait/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-03-21 22:39:57 Error: [MissingHelperException] Helper class FacebookHelper could not be found.
+#0 /var/www/parfait/lib/Cake/View/HelperCollection.php(62): HelperCollection->load('Facebook')
+#1 /var/www/parfait/lib/Cake/View/View.php(812): HelperCollection->__isset('Facebook')
+#2 /var/www/parfait/app/View/Elements/header.ctp(2): View->__get('Facebook')
+#3 /var/www/parfait/lib/Cake/View/View.php(920): include('/var/www/parfai...')
+#4 /var/www/parfait/lib/Cake/View/View.php(883): View->_evaluate('/var/www/parfai...', Array)
+#5 /var/www/parfait/lib/Cake/View/View.php(424): View->_render('/var/www/parfai...', Array)
+#6 /var/www/parfait/app/View/Pages/home.ctp(3): View->element('header')
+#7 /var/www/parfait/lib/Cake/View/View.php(920): include('/var/www/parfai...')
+#8 /var/www/parfait/lib/Cake/View/View.php(883): View->_evaluate('/var/www/parfai...', Array)
+#9 /var/www/parfait/lib/Cake/View/View.php(475): View->_render('/var/www/parfai...')
+#10 /var/www/parfait/lib/Cake/Controller/Controller.php(957): View->render('home', NULL)
+#11 /var/www/parfait/app/Controller/PagesController.php(73): Controller->render('home')
+#12 [internal function]: PagesController->display('home')
+#13 /var/www/parfait/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#14 /var/www/parfait/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#15 /var/www/parfait/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#16 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#17 {main}
+2013-03-21 22:42:59 Error: [MissingHelperException] Helper class FacebookHelper could not be found.
+#0 /var/www/parfait/lib/Cake/View/HelperCollection.php(62): HelperCollection->load('Facebook')
+#1 /var/www/parfait/lib/Cake/View/View.php(812): HelperCollection->__isset('Facebook')
+#2 /var/www/parfait/app/View/Elements/header.ctp(2): View->__get('Facebook')
+#3 /var/www/parfait/lib/Cake/View/View.php(920): include('/var/www/parfai...')
+#4 /var/www/parfait/lib/Cake/View/View.php(883): View->_evaluate('/var/www/parfai...', Array)
+#5 /var/www/parfait/lib/Cake/View/View.php(424): View->_render('/var/www/parfai...', Array)
+#6 /var/www/parfait/app/View/Pages/home.ctp(3): View->element('header')
+#7 /var/www/parfait/lib/Cake/View/View.php(920): include('/var/www/parfai...')
+#8 /var/www/parfait/lib/Cake/View/View.php(883): View->_evaluate('/var/www/parfai...', Array)
+#9 /var/www/parfait/lib/Cake/View/View.php(475): View->_render('/var/www/parfai...')
+#10 /var/www/parfait/lib/Cake/Controller/Controller.php(957): View->render('home', NULL)
+#11 /var/www/parfait/app/Controller/PagesController.php(73): Controller->render('home')
+#12 [internal function]: PagesController->display('home')
+#13 /var/www/parfait/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#14 /var/www/parfait/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#15 /var/www/parfait/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#16 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#17 {main}
+2013-03-21 22:52:17 Error: [MissingHelperException] Helper class FacebookHelper could not be found.
+#0 /var/www/parfait/lib/Cake/View/HelperCollection.php(62): HelperCollection->load('Facebook')
+#1 /var/www/parfait/lib/Cake/View/View.php(812): HelperCollection->__isset('Facebook')
+#2 /var/www/parfait/app/View/Elements/header.ctp(2): View->__get('Facebook')
+#3 /var/www/parfait/lib/Cake/View/View.php(920): include('/var/www/parfai...')
+#4 /var/www/parfait/lib/Cake/View/View.php(883): View->_evaluate('/var/www/parfai...', Array)
+#5 /var/www/parfait/lib/Cake/View/View.php(424): View->_render('/var/www/parfai...', Array)
+#6 /var/www/parfait/app/View/Pages/home.ctp(3): View->element('header')
+#7 /var/www/parfait/lib/Cake/View/View.php(920): include('/var/www/parfai...')
+#8 /var/www/parfait/lib/Cake/View/View.php(883): View->_evaluate('/var/www/parfai...', Array)
+#9 /var/www/parfait/lib/Cake/View/View.php(475): View->_render('/var/www/parfai...')
+#10 /var/www/parfait/lib/Cake/Controller/Controller.php(957): View->render('home', NULL)
+#11 /var/www/parfait/app/Controller/PagesController.php(73): Controller->render('home')
+#12 [internal function]: PagesController->display('home')
+#13 /var/www/parfait/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#14 /var/www/parfait/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#15 /var/www/parfait/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#16 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#17 {main}
+2013-03-21 22:52:26 Error: [MissingHelperException] Helper class FacebookHelper could not be found.
+#0 /var/www/parfait/lib/Cake/View/HelperCollection.php(62): HelperCollection->load('Facebook')
+#1 /var/www/parfait/lib/Cake/View/View.php(812): HelperCollection->__isset('Facebook')
+#2 /var/www/parfait/app/View/Elements/header.ctp(2): View->__get('Facebook')
+#3 /var/www/parfait/lib/Cake/View/View.php(920): include('/var/www/parfai...')
+#4 /var/www/parfait/lib/Cake/View/View.php(883): View->_evaluate('/var/www/parfai...', Array)
+#5 /var/www/parfait/lib/Cake/View/View.php(424): View->_render('/var/www/parfai...', Array)
+#6 /var/www/parfait/app/View/Pages/home.ctp(3): View->element('header')
+#7 /var/www/parfait/lib/Cake/View/View.php(920): include('/var/www/parfai...')
+#8 /var/www/parfait/lib/Cake/View/View.php(883): View->_evaluate('/var/www/parfai...', Array)
+#9 /var/www/parfait/lib/Cake/View/View.php(475): View->_render('/var/www/parfai...')
+#10 /var/www/parfait/lib/Cake/Controller/Controller.php(957): View->render('home', NULL)
+#11 /var/www/parfait/app/Controller/PagesController.php(73): Controller->render('home')
+#12 [internal function]: PagesController->display('home')
+#13 /var/www/parfait/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#14 /var/www/parfait/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#15 /var/www/parfait/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#16 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#17 {main}
+2013-03-21 22:52:32 Error: [MissingHelperException] Helper class FacebookHelper could not be found.
+#0 /var/www/parfait/lib/Cake/View/HelperCollection.php(62): HelperCollection->load('Facebook')
+#1 /var/www/parfait/lib/Cake/View/View.php(812): HelperCollection->__isset('Facebook')
+#2 /var/www/parfait/app/View/Elements/header.ctp(2): View->__get('Facebook')
+#3 /var/www/parfait/lib/Cake/View/View.php(920): include('/var/www/parfai...')
+#4 /var/www/parfait/lib/Cake/View/View.php(883): View->_evaluate('/var/www/parfai...', Array)
+#5 /var/www/parfait/lib/Cake/View/View.php(424): View->_render('/var/www/parfai...', Array)
+#6 /var/www/parfait/app/View/Pages/home.ctp(3): View->element('header')
+#7 /var/www/parfait/lib/Cake/View/View.php(920): include('/var/www/parfai...')
+#8 /var/www/parfait/lib/Cake/View/View.php(883): View->_evaluate('/var/www/parfai...', Array)
+#9 /var/www/parfait/lib/Cake/View/View.php(475): View->_render('/var/www/parfai...')
+#10 /var/www/parfait/lib/Cake/Controller/Controller.php(957): View->render('home', NULL)
+#11 /var/www/parfait/app/Controller/PagesController.php(73): Controller->render('home')
+#12 [internal function]: PagesController->display('home')
+#13 /var/www/parfait/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#14 /var/www/parfait/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#15 /var/www/parfait/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#16 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#17 {main}
+2013-03-21 23:02:52 Error: [MissingHelperException] Helper class FacebookHelper could not be found.
+#0 /var/www/parfait/lib/Cake/View/HelperCollection.php(62): HelperCollection->load('Facebook')
+#1 /var/www/parfait/lib/Cake/View/View.php(812): HelperCollection->__isset('Facebook')
+#2 /var/www/parfait/app/View/Elements/header.ctp(2): View->__get('Facebook')
+#3 /var/www/parfait/lib/Cake/View/View.php(920): include('/var/www/parfai...')
+#4 /var/www/parfait/lib/Cake/View/View.php(883): View->_evaluate('/var/www/parfai...', Array)
+#5 /var/www/parfait/lib/Cake/View/View.php(424): View->_render('/var/www/parfai...', Array)
+#6 /var/www/parfait/app/View/Pages/home.ctp(3): View->element('header')
+#7 /var/www/parfait/lib/Cake/View/View.php(920): include('/var/www/parfai...')
+#8 /var/www/parfait/lib/Cake/View/View.php(883): View->_evaluate('/var/www/parfai...', Array)
+#9 /var/www/parfait/lib/Cake/View/View.php(475): View->_render('/var/www/parfai...')
+#10 /var/www/parfait/lib/Cake/Controller/Controller.php(957): View->render('home', NULL)
+#11 /var/www/parfait/app/Controller/PagesController.php(73): Controller->render('home')
+#12 [internal function]: PagesController->display('home')
+#13 /var/www/parfait/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#14 /var/www/parfait/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#15 /var/www/parfait/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#16 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#17 {main}
+2013-03-21 23:04:03 Error: [MissingHelperException] Helper class FacebookHelper could not be found.
+#0 /var/www/parfait/lib/Cake/View/HelperCollection.php(62): HelperCollection->load('Facebook')
+#1 /var/www/parfait/lib/Cake/View/View.php(812): HelperCollection->__isset('Facebook')
+#2 /var/www/parfait/app/View/Elements/header.ctp(2): View->__get('Facebook')
+#3 /var/www/parfait/lib/Cake/View/View.php(920): include('/var/www/parfai...')
+#4 /var/www/parfait/lib/Cake/View/View.php(883): View->_evaluate('/var/www/parfai...', Array)
+#5 /var/www/parfait/lib/Cake/View/View.php(424): View->_render('/var/www/parfai...', Array)
+#6 /var/www/parfait/app/View/Pages/home.ctp(3): View->element('header')
+#7 /var/www/parfait/lib/Cake/View/View.php(920): include('/var/www/parfai...')
+#8 /var/www/parfait/lib/Cake/View/View.php(883): View->_evaluate('/var/www/parfai...', Array)
+#9 /var/www/parfait/lib/Cake/View/View.php(475): View->_render('/var/www/parfai...')
+#10 /var/www/parfait/lib/Cake/Controller/Controller.php(957): View->render('home', NULL)
+#11 /var/www/parfait/app/Controller/PagesController.php(73): Controller->render('home')
+#12 [internal function]: PagesController->display('home')
+#13 /var/www/parfait/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#14 /var/www/parfait/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#15 /var/www/parfait/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#16 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#17 {main}
+2013-03-21 23:04:05 Error: [MissingHelperException] Helper class FacebookHelper could not be found.
+#0 /var/www/parfait/lib/Cake/View/HelperCollection.php(62): HelperCollection->load('Facebook')
+#1 /var/www/parfait/lib/Cake/View/View.php(812): HelperCollection->__isset('Facebook')
+#2 /var/www/parfait/app/View/Elements/header.ctp(2): View->__get('Facebook')
+#3 /var/www/parfait/lib/Cake/View/View.php(920): include('/var/www/parfai...')
+#4 /var/www/parfait/lib/Cake/View/View.php(883): View->_evaluate('/var/www/parfai...', Array)
+#5 /var/www/parfait/lib/Cake/View/View.php(424): View->_render('/var/www/parfai...', Array)
+#6 /var/www/parfait/app/View/Pages/home.ctp(3): View->element('header')
+#7 /var/www/parfait/lib/Cake/View/View.php(920): include('/var/www/parfai...')
+#8 /var/www/parfait/lib/Cake/View/View.php(883): View->_evaluate('/var/www/parfai...', Array)
+#9 /var/www/parfait/lib/Cake/View/View.php(475): View->_render('/var/www/parfai...')
+#10 /var/www/parfait/lib/Cake/Controller/Controller.php(957): View->render('home', NULL)
+#11 /var/www/parfait/app/Controller/PagesController.php(73): Controller->render('home')
+#12 [internal function]: PagesController->display('home')
+#13 /var/www/parfait/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#14 /var/www/parfait/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#15 /var/www/parfait/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#16 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#17 {main}
+2013-03-21 23:04:33 Error: [MissingHelperException] Helper class FacebookHelper could not be found.
+#0 /var/www/parfait/lib/Cake/View/HelperCollection.php(62): HelperCollection->load('Facebook')
+#1 /var/www/parfait/lib/Cake/View/View.php(812): HelperCollection->__isset('Facebook')
+#2 /var/www/parfait/app/View/Elements/header.ctp(2): View->__get('Facebook')
+#3 /var/www/parfait/lib/Cake/View/View.php(920): include('/var/www/parfai...')
+#4 /var/www/parfait/lib/Cake/View/View.php(883): View->_evaluate('/var/www/parfai...', Array)
+#5 /var/www/parfait/lib/Cake/View/View.php(424): View->_render('/var/www/parfai...', Array)
+#6 /var/www/parfait/app/View/Pages/home.ctp(3): View->element('header')
+#7 /var/www/parfait/lib/Cake/View/View.php(920): include('/var/www/parfai...')
+#8 /var/www/parfait/lib/Cake/View/View.php(883): View->_evaluate('/var/www/parfai...', Array)
+#9 /var/www/parfait/lib/Cake/View/View.php(475): View->_render('/var/www/parfai...')
+#10 /var/www/parfait/lib/Cake/Controller/Controller.php(957): View->render('home', NULL)
+#11 /var/www/parfait/app/Controller/PagesController.php(73): Controller->render('home')
+#12 [internal function]: PagesController->display('home')
+#13 /var/www/parfait/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#14 /var/www/parfait/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#15 /var/www/parfait/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#16 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#17 {main}
+2013-03-21 23:05:38 Error: [MissingHelperException] Helper class FacebookHelper could not be found.
+#0 /var/www/parfait/lib/Cake/View/HelperCollection.php(62): HelperCollection->load('Facebook')
+#1 /var/www/parfait/lib/Cake/View/View.php(812): HelperCollection->__isset('Facebook')
+#2 /var/www/parfait/app/View/Elements/header.ctp(2): View->__get('Facebook')
+#3 /var/www/parfait/lib/Cake/View/View.php(920): include('/var/www/parfai...')
+#4 /var/www/parfait/lib/Cake/View/View.php(883): View->_evaluate('/var/www/parfai...', Array)
+#5 /var/www/parfait/lib/Cake/View/View.php(424): View->_render('/var/www/parfai...', Array)
+#6 /var/www/parfait/app/View/Pages/home.ctp(3): View->element('header')
+#7 /var/www/parfait/lib/Cake/View/View.php(920): include('/var/www/parfai...')
+#8 /var/www/parfait/lib/Cake/View/View.php(883): View->_evaluate('/var/www/parfai...', Array)
+#9 /var/www/parfait/lib/Cake/View/View.php(475): View->_render('/var/www/parfai...')
+#10 /var/www/parfait/lib/Cake/Controller/Controller.php(957): View->render('home', NULL)
+#11 /var/www/parfait/app/Controller/PagesController.php(73): Controller->render('home')
+#12 [internal function]: PagesController->display('home')
+#13 /var/www/parfait/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#14 /var/www/parfait/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#15 /var/www/parfait/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#16 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#17 {main}
+2013-03-21 23:08:48 Error: [MissingHelperException] Helper class FacebookHelper could not be found.
+#0 /var/www/parfait/lib/Cake/View/HelperCollection.php(62): HelperCollection->load('Facebook')
+#1 /var/www/parfait/lib/Cake/View/View.php(812): HelperCollection->__isset('Facebook')
+#2 /var/www/parfait/app/View/Elements/header.ctp(2): View->__get('Facebook')
+#3 /var/www/parfait/lib/Cake/View/View.php(920): include('/var/www/parfai...')
+#4 /var/www/parfait/lib/Cake/View/View.php(883): View->_evaluate('/var/www/parfai...', Array)
+#5 /var/www/parfait/lib/Cake/View/View.php(424): View->_render('/var/www/parfai...', Array)
+#6 /var/www/parfait/app/View/Pages/home.ctp(3): View->element('header')
+#7 /var/www/parfait/lib/Cake/View/View.php(920): include('/var/www/parfai...')
+#8 /var/www/parfait/lib/Cake/View/View.php(883): View->_evaluate('/var/www/parfai...', Array)
+#9 /var/www/parfait/lib/Cake/View/View.php(475): View->_render('/var/www/parfai...')
+#10 /var/www/parfait/lib/Cake/Controller/Controller.php(957): View->render('home', NULL)
+#11 /var/www/parfait/app/Controller/PagesController.php(73): Controller->render('home')
+#12 [internal function]: PagesController->display('home')
+#13 /var/www/parfait/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#14 /var/www/parfait/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#15 /var/www/parfait/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#16 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#17 {main}
+2013-03-21 23:08:59 Error: [MissingHelperException] Helper class FacebookHelper could not be found.
+#0 /var/www/parfait/lib/Cake/View/HelperCollection.php(62): HelperCollection->load('Facebook')
+#1 /var/www/parfait/lib/Cake/View/View.php(812): HelperCollection->__isset('Facebook')
+#2 /var/www/parfait/app/View/Elements/header.ctp(2): View->__get('Facebook')
+#3 /var/www/parfait/lib/Cake/View/View.php(920): include('/var/www/parfai...')
+#4 /var/www/parfait/lib/Cake/View/View.php(883): View->_evaluate('/var/www/parfai...', Array)
+#5 /var/www/parfait/lib/Cake/View/View.php(424): View->_render('/var/www/parfai...', Array)
+#6 /var/www/parfait/app/View/Pages/home.ctp(3): View->element('header')
+#7 /var/www/parfait/lib/Cake/View/View.php(920): include('/var/www/parfai...')
+#8 /var/www/parfait/lib/Cake/View/View.php(883): View->_evaluate('/var/www/parfai...', Array)
+#9 /var/www/parfait/lib/Cake/View/View.php(475): View->_render('/var/www/parfai...')
+#10 /var/www/parfait/lib/Cake/Controller/Controller.php(957): View->render('home', NULL)
+#11 /var/www/parfait/app/Controller/PagesController.php(73): Controller->render('home')
+#12 [internal function]: PagesController->display('home')
+#13 /var/www/parfait/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#14 /var/www/parfait/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#15 /var/www/parfait/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#16 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#17 {main}
+2013-03-21 23:10:25 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-21 23:10:28 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-21 23:12:23 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-21 23:13:34 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-21 23:13:38 Error: [MissingControllerException] Controller class HomeController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-21 23:14:05 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-21 23:14:07 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-21 23:20:37 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-21 23:20:37 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-21 23:20:39 Error: [MissingViewException] View file "/var/www/parfait/app/View/Users/logout.ctp" is missing.
+#0 /var/www/parfait/lib/Cake/View/View.php(472): View->_getViewFileName(NULL)
+#1 /var/www/parfait/lib/Cake/Controller/Controller.php(957): View->render(NULL, NULL)
+#2 /var/www/parfait/lib/Cake/Routing/Dispatcher.php(193): Controller->render()
+#3 /var/www/parfait/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#4 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-03-21 23:22:56 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-21 23:23:00 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-21 23:23:03 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-21 23:23:05 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-21 23:23:08 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-21 23:23:09 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-21 23:40:24 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-21 23:40:25 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-21 23:40:29 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-21 23:40:32 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-21 23:40:34 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-21 23:40:50 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-21 23:40:50 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-21 23:41:00 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-21 23:41:02 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-21 23:41:17 Error: [MissingControllerException] Controller class LoginController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-21 23:41:30 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-21 23:42:43 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-21 23:42:47 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-21 23:42:50 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-21 23:42:52 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-21 23:45:32 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-21 23:45:35 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-21 23:45:39 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-21 23:45:41 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-21 23:47:01 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-21 23:47:03 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-21 23:47:05 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-21 23:47:07 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-21 23:49:01 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-21 23:49:03 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-21 23:49:44 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-21 23:50:48 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-21 23:51:00 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-21 23:51:04 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-21 23:51:56 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 00:36:13 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 00:37:10 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 00:37:52 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 00:39:04 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 00:42:23 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 00:42:46 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 00:43:18 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 00:43:21 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 00:43:24 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 00:43:34 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 00:43:34 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 00:43:41 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 00:46:33 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 00:49:15 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 00:49:20 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 00:49:24 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 01:11:58 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 01:12:00 Error: Fatal Error (4): syntax error, unexpected T_CLASS in [/var/www/parfait/app/Controller/UsersController.php, line 3]
+2013-03-22 01:12:00 Error: [FatalErrorException] syntax error, unexpected T_CLASS
+#0 /var/www/parfait/lib/Cake/Error/ErrorHandler.php(162): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/parfai...', 3)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/parfai...', 3, Array)
+#2 /var/www/parfait/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/parfai...', 3, Array)
+#3 /var/www/parfait/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-03-22 01:13:05 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 01:13:10 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 01:14:16 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 01:15:17 Error: Fatal Error (4): syntax error, unexpected ';' in [/var/www/parfait/app/View/Users/profile.ctp, line 2]
+2013-03-22 01:15:17 Error: [FatalErrorException] syntax error, unexpected ';'
+#0 /var/www/parfait/lib/Cake/Error/ErrorHandler.php(162): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/parfai...', 2)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/parfai...', 2, Array)
+#2 /var/www/parfait/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/parfai...', 2, Array)
+#3 /var/www/parfait/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-03-22 01:16:08 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 01:17:15 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 01:17:27 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 01:23:20 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 01:24:07 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 01:37:48 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 01:39:01 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 01:44:15 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 01:44:48 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 01:50:28 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 01:50:59 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 01:51:01 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 01:51:07 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 01:51:34 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 01:51:36 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 01:52:16 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 01:52:18 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 01:52:21 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 01:53:55 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 01:55:45 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 01:55:48 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 01:56:14 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 01:56:59 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 01:59:15 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 01:59:50 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 02:00:00 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 02:00:10 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 02:00:13 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 02:00:18 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 02:01:55 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 02:03:10 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 02:03:49 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 02:03:52 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 02:04:23 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 02:04:26 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 02:04:29 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 02:04:31 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 02:04:34 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 02:04:53 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 02:04:53 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 02:04:55 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 02:04:56 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 02:04:58 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 02:05:00 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 02:05:03 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 02:05:55 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 02:06:14 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 02:06:17 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 02:07:05 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 02:13:08 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 02:22:49 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 02:23:19 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 02:25:17 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 02:25:56 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 02:26:04 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 02:29:13 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 02:29:57 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 02:30:11 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 02:30:18 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 02:32:05 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 02:32:08 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 02:32:37 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 02:40:52 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 02:42:15 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 02:43:37 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 02:43:45 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 02:44:37 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 02:44:42 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 02:46:40 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 02:46:43 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 02:46:47 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 02:48:54 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 02:49:14 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 02:49:21 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 02:57:36 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 02:57:40 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 02:57:43 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 02:58:57 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 02:59:06 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 03:03:55 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 03:03:59 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 03:04:03 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 03:04:48 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 03:04:48 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 03:04:53 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 03:04:55 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 03:05:00 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 03:06:06 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 03:06:08 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 03:06:10 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 03:06:14 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 03:16:41 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 03:17:10 Error: [MissingTableException] Table projects_users for model ProjectsUser was not found in datasource default.
+#0 /var/www/parfait/lib/Cake/Model/Model.php(3179): Model->setSource('projects_users')
+#1 /var/www/parfait/lib/Cake/Model/Model.php(1301): Model->getDataSource()
+#2 /var/www/parfait/lib/Cake/Model/Model.php(847): Model->schema()
+#3 /var/www/parfait/lib/Cake/Model/Model.php(872): Model->__isset('ProjectsUser')
+#4 /var/www/parfait/lib/Cake/Model/Model.php(3247): Model->__get('ProjectsUser')
+#5 /var/www/parfait/lib/Cake/Model/Datasource/DboSource.php(1598): Model->joinModel('ProjectsUser', Array)
+#6 /var/www/parfait/lib/Cake/Model/Datasource/DboSource.php(1073): DboSource->generateAssociationQuery(Object(User), Object(Project), 'hasAndBelongsTo...', 'Project', Array, Array, false, NULL)
+#7 /var/www/parfait/lib/Cake/Model/Model.php(2630): DboSource->read(Object(User), Array)
+#8 /var/www/parfait/app/Controller/UsersController.php(29): Model->find('all', Array)
+#9 [internal function]: UsersController->facebook_login()
+#10 /var/www/parfait/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#11 /var/www/parfait/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#12 /var/www/parfait/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#13 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#14 {main}
+2013-03-22 03:18:44 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 03:18:44 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 03:18:46 Error: [MissingActionException] Action UsersController::login() could not be found.
+#0 /var/www/parfait/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 /var/www/parfait/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-03-22 03:18:50 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 03:19:29 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 03:19:40 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 03:20:38 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 03:20:41 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 03:20:45 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 03:21:19 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 03:21:23 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 03:21:39 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 03:21:47 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 03:22:06 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 03:22:18 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 03:26:30 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 03:26:32 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 03:26:34 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 03:26:44 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 03:27:30 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 03:27:32 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 03:27:35 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 03:29:31 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 03:29:31 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 03:29:41 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 03:31:02 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 03:31:03 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 03:31:12 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 03:32:05 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 03:32:07 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 03:32:18 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 03:32:23 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 03:32:36 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 03:39:31 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 03:39:34 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 03:39:36 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 03:41:39 Error: [FacebookApiException] An active access token must be used to query information about the current user.
+#0 /var/www/parfait/app/Vendor/facebook/base_facebook.php(880): BaseFacebook->throwAPIException(Array)
+#1 [internal function]: BaseFacebook->_graph('/me')
+#2 /var/www/parfait/app/Vendor/facebook/base_facebook.php(654): call_user_func_array(Array, Array)
+#3 /var/www/parfait/app/Controller/UsersController.php(20): BaseFacebook->api('/me')
+#4 [internal function]: UsersController->profile()
+#5 /var/www/parfait/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#6 /var/www/parfait/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#7 /var/www/parfait/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#8 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2013-03-22 03:41:45 Error: [FacebookApiException] An active access token must be used to query information about the current user.
+#0 /var/www/parfait/app/Vendor/facebook/base_facebook.php(880): BaseFacebook->throwAPIException(Array)
+#1 [internal function]: BaseFacebook->_graph('/me')
+#2 /var/www/parfait/app/Vendor/facebook/base_facebook.php(654): call_user_func_array(Array, Array)
+#3 /var/www/parfait/app/Controller/UsersController.php(20): BaseFacebook->api('/me')
+#4 [internal function]: UsersController->profile()
+#5 /var/www/parfait/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#6 /var/www/parfait/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#7 /var/www/parfait/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#8 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2013-03-22 03:41:49 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 03:41:53 Error: [FacebookApiException] An active access token must be used to query information about the current user.
+#0 /var/www/parfait/app/Vendor/facebook/base_facebook.php(880): BaseFacebook->throwAPIException(Array)
+#1 [internal function]: BaseFacebook->_graph('/me')
+#2 /var/www/parfait/app/Vendor/facebook/base_facebook.php(654): call_user_func_array(Array, Array)
+#3 /var/www/parfait/app/Controller/UsersController.php(20): BaseFacebook->api('/me')
+#4 [internal function]: UsersController->profile()
+#5 /var/www/parfait/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#6 /var/www/parfait/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#7 /var/www/parfait/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#8 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2013-03-22 03:43:24 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 03:43:27 Error: [FacebookApiException] An active access token must be used to query information about the current user.
+#0 /var/www/parfait/app/Vendor/facebook/base_facebook.php(880): BaseFacebook->throwAPIException(Array)
+#1 [internal function]: BaseFacebook->_graph('/me')
+#2 /var/www/parfait/app/Vendor/facebook/base_facebook.php(654): call_user_func_array(Array, Array)
+#3 /var/www/parfait/app/Controller/UsersController.php(20): BaseFacebook->api('/me')
+#4 [internal function]: UsersController->profile()
+#5 /var/www/parfait/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#6 /var/www/parfait/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#7 /var/www/parfait/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#8 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2013-03-22 03:44:11 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 03:44:14 Error: [FacebookApiException] An active access token must be used to query information about the current user.
+#0 /var/www/parfait/app/Vendor/facebook/base_facebook.php(880): BaseFacebook->throwAPIException(Array)
+#1 [internal function]: BaseFacebook->_graph('/me')
+#2 /var/www/parfait/app/Vendor/facebook/base_facebook.php(654): call_user_func_array(Array, Array)
+#3 /var/www/parfait/app/Controller/UsersController.php(16): BaseFacebook->api('/me')
+#4 [internal function]: UsersController->profile()
+#5 /var/www/parfait/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#6 /var/www/parfait/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#7 /var/www/parfait/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#8 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2013-03-22 03:46:37 Error: [FacebookApiException] An active access token must be used to query information about the current user.
+#0 /var/www/parfait/app/Vendor/facebook/base_facebook.php(880): BaseFacebook->throwAPIException(Array)
+#1 [internal function]: BaseFacebook->_graph('/me')
+#2 /var/www/parfait/app/Vendor/facebook/base_facebook.php(654): call_user_func_array(Array, Array)
+#3 /var/www/parfait/app/Controller/UsersController.php(16): BaseFacebook->api('/me')
+#4 [internal function]: UsersController->profile()
+#5 /var/www/parfait/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#6 /var/www/parfait/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#7 /var/www/parfait/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#8 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2013-03-22 03:46:52 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 03:47:24 Error: [FacebookApiException] An active access token must be used to query information about the current user.
+#0 /var/www/parfait/app/Vendor/facebook/base_facebook.php(880): BaseFacebook->throwAPIException(Array)
+#1 [internal function]: BaseFacebook->_graph('/me')
+#2 /var/www/parfait/app/Vendor/facebook/base_facebook.php(654): call_user_func_array(Array, Array)
+#3 /var/www/parfait/app/Controller/UsersController.php(16): BaseFacebook->api('/me')
+#4 [internal function]: UsersController->profile()
+#5 /var/www/parfait/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#6 /var/www/parfait/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#7 /var/www/parfait/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#8 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2013-03-22 03:47:41 Error: [FacebookApiException] An active access token must be used to query information about the current user.
+#0 /var/www/parfait/app/Vendor/facebook/base_facebook.php(880): BaseFacebook->throwAPIException(Array)
+#1 [internal function]: BaseFacebook->_graph('/me')
+#2 /var/www/parfait/app/Vendor/facebook/base_facebook.php(654): call_user_func_array(Array, Array)
+#3 /var/www/parfait/app/Controller/UsersController.php(16): BaseFacebook->api('/me')
+#4 [internal function]: UsersController->profile()
+#5 /var/www/parfait/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#6 /var/www/parfait/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#7 /var/www/parfait/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#8 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2013-03-22 03:47:52 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 03:47:57 Error: [FacebookApiException] An active access token must be used to query information about the current user.
+#0 /var/www/parfait/app/Vendor/facebook/base_facebook.php(880): BaseFacebook->throwAPIException(Array)
+#1 [internal function]: BaseFacebook->_graph('/me')
+#2 /var/www/parfait/app/Vendor/facebook/base_facebook.php(654): call_user_func_array(Array, Array)
+#3 /var/www/parfait/app/Controller/UsersController.php(16): BaseFacebook->api('/me')
+#4 [internal function]: UsersController->profile()
+#5 /var/www/parfait/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#6 /var/www/parfait/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#7 /var/www/parfait/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#8 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2013-03-22 03:49:40 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 03:51:57 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 03:52:06 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 03:52:34 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-03-22 03:52:42 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /var/www/parfait/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}

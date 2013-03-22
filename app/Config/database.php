@@ -63,10 +63,10 @@ class DATABASE_CONFIG {
 	public $default = array(
 		'datasource' => 'Database/Mysql',
 		'persistent' => false,
-		'host' => 'stardock.cs.virginia.edu',
-		'login' => 'parfait',
-		'password' => 'parfait',
-		'database' => 'parfait',
+		'host' => '',
+		'login' => '',
+		'password' => '',
+		'database' => '',
 		'prefix' => '',
 		'encoding' => 'utf8',
 	);
@@ -74,10 +74,10 @@ class DATABASE_CONFIG {
 	public $test = array(
 		'datasource' => 'Database/Mysql',
 		'persistent' => false,
-		'host' => 'dbm2.itc.virginia.edu',
-		'login' => 'parfait_uva',
-		'password' => 'p@rf@itsdab3$t',
-		'database' => 'parfait',
+		'host' => '',
+		'login' => '',
+		'password' => '',
+		'database' => '',
 		'prefix' => '',
 		//'encoding' => 'utf8',
 	);

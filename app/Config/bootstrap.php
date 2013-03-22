@@ -143,8 +143,6 @@ Cache::config('default', array('engine' => 'File'));
  *
  */
 
-CakePlugin::load('Facebook');
-
 /**
  * You can attach event listeners to the request lifecyle as Dispatcher Filter . By Default CakePHP bundles two filters:
  *
@@ -166,6 +164,12 @@ Configure::write('Dispatcher.filters', array(
 	'CacheDispatcher'
 ));
 
+/* Facebook specific */
+Configure::write('FB_APP_ID', '');
+Configure::write('FB_APP_SECRET', '');
+Configure::write('APP_URL', '');
+Configure::write('SITE_URL', ''); 
+
 /**
  * Configures default file logging options
  */
@@ -179,4 +183,4 @@ CakeLog::config('error', array(
 	'engine' => 'FileLog',
 	'types' => array('warning', 'error', 'critical', 'alert', 'emergency'),
 	'file' => 'error',
-));
+)a);
