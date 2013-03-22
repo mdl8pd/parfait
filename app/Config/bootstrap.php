@@ -165,10 +165,10 @@ Configure::write('Dispatcher.filters', array(
 ));
 
 /* Facebook specific */
-Configure::write('FB_APP_ID', '');
-Configure::write('FB_APP_SECRET', '');
-Configure::write('APP_URL', '');
-Configure::write('SITE_URL', ''); 
+Configure::write('FB_APP_ID', '341471399307182');
+Configure::write('FB_APP_SECRET', '1cf841b845398845cbe9aab65d85d22e');
+Configure::write('APP_URL', 'http://localhost/parfait/');
+Configure::write('SITE_URL', 'http://localhost/parfait/');
 
 /**
  * Configures default file logging options
@@ -183,4 +183,4 @@ CakeLog::config('error', array(
 	'engine' => 'FileLog',
 	'types' => array('warning', 'error', 'critical', 'alert', 'emergency'),
 	'file' => 'error',
-)a);
+));

@@ -5317,6 +5317,17 @@ input[type="submit"].btn.btn-mini {
           background-clip: padding-box;
 }
 
+.popover a > img {
+  padding: 4px 11px;
+  opacity: 0.5;
+  filter: alpha(opacity=50);
+}
+
+.popover a > img:hover {
+  opacity: 1;
+  filter: alpha(opacity=100);	
+}
+
 .popover.top {
   margin-top: -10px;
 }

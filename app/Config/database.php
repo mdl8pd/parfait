@@ -61,15 +61,15 @@ class DATABASE_CONFIG {
 	
 	// Connect's to Stardock
 	public $default = array(
-		'datasource' => 'Database/Mysql',
-		'persistent' => false,
-		'host' => '',
-		'login' => '',
-		'password' => '',
-		'database' => '',
-		'prefix' => '',
-		'encoding' => 'utf8',
-	);
+                'datasource' => 'Database/Mysql',
+                'persistent' => false,
+                'host' => 'stardock.cs.virginia.edu',
+                'login' => 'parfait',
+                'password' => 'parfait',
+                'database' => 'parfait',
+                'prefix' => '',
+                'encoding' => 'utf8',
+        );
 
 	public $test = array(
 		'datasource' => 'Database/Mysql',

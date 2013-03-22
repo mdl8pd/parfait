@@ -46,29 +46,24 @@
 				<?php if($this->Session->read('user_id')) { ?>
 			     		<li><a href="<?php echo $this->webroot . "users/logout";?>">Logout</a></li>	
 				<?php } else { ?>
-					<a href="#loginModal" role="button" class="btn btn-primary" data-toggle="modal">Login</a>
-	 		   	<?php } ?>
-			   </ul>
-			   </div>
-			  </div>		
-			 </div>
+					<a href="#" id="loginPopover" class="btn btn-primary" data-toggle="popover" >Login</a>
+					<?php } ?>
+				   </ul>
+				   </div>
+				  </div>		
+				 </div>
+				</div>
 			</div>
-		</div>
+
+			<script>  
+				$(function () { 
+					$("#loginPopover").popover({
+						content: '<a href="<?php echo $this->webroot . "users/profile"; ?>"><?php echo $this->Html->image('linkedin.png', array('width' => 40, 'height'=>40, 'alt' => 'Linkedin')); ?></a><a href="<?php echo $this->webroot . "users/profile"; ?>"><?php echo $this->Html->image('facebook.png', array('width' => 40, 'height'=>40, 'alt' => 'Facebook')); ?></a><a href="<?php echo $this->webroot . "users/profile"; ?>"><?php echo $this->Html->image('twitter.png', array('width' => 40, 'height'=>40, 'alt' => 'Twitter')); ?></a>',
+						placement: 'bottom',
+						html: true, 
+						template: '<div class="popover" style="width:90px;"><div class="arrow"></div><div class="popover-inner"><div class="popover-content"><p></p></div></div></div>'});  
+				});  
+			</script> 
 
 
-
-
-		<!-- LOGIN MODAL -->	
-		<div id="loginModal" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="loginModalLabel" aria-hidden="true">
-                	<div class="modal-header">
-                        	<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
-                                <h3 id="loginModalLabel">Login</h3>
-                        </div>
-                        <div class="modal-body">
-                        	<a href="<?php echo $this->webroot . "users/profile";?>">FB Login</a>
-                        </div>
-                        <div class="modal-footer">
-                        	<button class="btn" data-dismiss="modal" aria-hidden="true">Close</button>
-                        </div>
-               	</div>  
 	<?php echo $this->Session->flash(); ?>

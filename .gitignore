@@ -2,3 +2,5 @@
 /dist
 .DS_Store
 /tags
+app/[Cc]onfig/database.php
+app/[Cc]onfig/bootstrap.php
