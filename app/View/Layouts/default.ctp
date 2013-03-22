@@ -15,11 +15,11 @@
  * @since         CakePHP(tm) v 0.10.0.1076
  * @license       MIT License (http://www.opensource.org/licenses/mit-license.php)
  */
-
+$title_for_layout = "Parfait";
 $cakeDescription = __d('cake_dev', 'CakePHP: the rapid development php framework');
 ?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
+<?php echo $this->Facebook->html(); ?>
 <head>
 	<?php echo $this->Html->charset(); ?>
 	<title>
@@ -36,5 +36,20 @@ $cakeDescription = __d('cake_dev', 'CakePHP: the rapid development php framework
 </head>
 <body>
 			<?php echo $this->fetch('content'); ?>
+
+
+	<div id="footer">
+        	<div class="navbar-static-bottom">
+                	<footer class="modal-footer">
+                        <p>Parfait 2013 &#149; University of Virginia &#149; Charlottesville, VA 22903 &#149; <a href="mailto:parfaituva@gmail.com">parfaituva@gmail.com</a></p>
+			</footer>
+               	</div>
+	</div>
 </body>
+
+<!-- LOAD FACEBOOK JS API -->
+<?php echo $this->Facebook->init(); ?>
+
 </html>
+
+

@@ -16,8 +16,3 @@
 <div id="main-content" class="row">
 	<!-- This is where we'll have current activities/announcements? Flexible - let me know what you all think would be useful -->
 </div>
-
-<?php
-	// File from app/View/Elements
-	echo $this->element('footer');
-?>

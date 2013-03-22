@@ -32,4 +32,23 @@ App::uses('Controller', 'Controller');
  * @link http://book.cakephp.org/2.0/en/controllers.html#the-app-controller
  */
 class AppController extends Controller {
+	public $helpers = array('Session', 'Html', 'Facebook.Facebook');
+	public $components = array(
+		'Session',
+		'Auth' => array(
+			'authorize'=>'controller',
+			'authorizedActions'=>array('index','view')
+		), 
+		'Facebook.Connect'
+	);
+
+	function beforeFilter() {
+		$this->set('user', $this->Auth->user());
+		$this->set('facebook_user', $this->Connect->user());
+	}
+
+	function isAuthorized() {
+		return $this->Auth->user('id');
+	}
+
 }
