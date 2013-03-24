@@ -4,3 +4,4 @@
 /tags
 app/[Cc]onfig/database.php
 app/[Cc]onfig/bootstrap.php
+/app/tmp
